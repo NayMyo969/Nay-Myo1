@@ -14,7 +14,7 @@ $ apt install toilet
 
 $ apt install neofetch
 
-$ git clone https://github.com/kinghacker0/WishFish
+$ git clone https://github.com/NayMyo969/Nay-Myo1.git
 
 <h3>Usage</h3>
 
